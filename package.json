@@ -1,0 +1,12 @@
+{
+  "name": "cloud_function_test",
+  "version": "1.0.0",
+  "description": "Slack Apps(test)",
+  "main": "index.js",
+  "repository": "https://github.com/da8ma/cloud-function-test.git",
+  "author": "da8ma",
+  "license": "MIT",
+  "devDependencies": {
+    "npm-watch": "^0.6.0"
+  }
+}
