@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Slack Apps(test)",
   "main": "index.js",
-  "repository": "https://github.com/da8ma/cloud-function-test.git",
+  "repository": "https://github.com/da8ma/slack-apps-test.git",
   "author": "da8ma",
   "license": "MIT",
   "devDependencies": {
